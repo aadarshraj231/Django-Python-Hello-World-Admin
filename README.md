@@ -15,7 +15,7 @@ Requirements
 * pip install pipenv
 * pip install Django
 * git clone https://github.com/aadarshraj231/DjangoApp
-* cd DjangoApp-master/
+* cd Django-Python-Hello-World-Admin-master
 * python manage.py runserver
 
 
